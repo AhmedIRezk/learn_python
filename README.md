@@ -53,7 +53,7 @@
 
 **أدوات التصميم والعمل:**
 
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
+
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
 ![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
 ![AI Tools](https://img.shields.io/badge/AI%20Tools-5D3FD3?style=flat&logo=openai&logoColor=white)
