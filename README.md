@@ -1,7 +1,7 @@
 <div align="center" width="50">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/YOUR_GITHUB_USERNAME" alt="Hello Coders" width="60%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/YOUR_GITHUB_USERNAME" alt="Workspace"  width="40%"/><br> 
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/AhmedIRezk" alt="Hello Coders" width="60%"/> <br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/AhmedIRezk" alt="Workspace"  width="40%"/><br> 
 
 <details>
 <p><strong> <summary>  Busy learning & Vibing to :   </summary> </strong></p>
@@ -9,14 +9,14 @@
 
 </details>
 
-![Totals Hits](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat&color=blue&label=PROFILE+VIEWS)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYOUR_GITHUB_USERNAME&count_bg=%231572B6&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
-[![linkedin badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](ضع هنا رابط حسابك على LinkedIn) <br>
+![Totals Hits](https://komarev.com/ghpvc/?username=AhmedIRezk&style=flat&color=blue&label=PROFILE+VIEWS)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FAhmedIRezk&count_bg=%231572B6&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
+[![linkedin badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/ahmed-irezk) <br>
 </div>
 
 <hr></hr>
 
-## 🚀 عني | **نظم معلومات إدارية (MIS) ومحلل بيانات طموح**
+## 🚀 عني | **Ahmed Ibrahim - نظم معلومات إدارية (MIS) ومحلل بيانات طموح**
 
 * **خريج نظم المعلومات الإدارية (MIS)**، متخصص في ربط التحليل التقني بمتطلبات الأعمال.
 * **هدفي الحالي:** الحصول على وظيفة كمحلل بيانات مبتدئ (Data Analyst) والنمو نحو تطوير الـ Backend.
@@ -25,9 +25,6 @@
 ---
 
 ### 🛠️ مهاراتي الأساسية وأدواتي (حسب مسار العمل)
-
-![skills_i_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Core%20Skills%20-blue)
-![semicolon](https://img.shields.io/badge/-%3A-blue)
 
 | المجال | المهارات التي أطورها حاليًا | الأدوات المستخدمة |
 | :--- | :--- | :--- |
